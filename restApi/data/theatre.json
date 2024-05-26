@@ -1,0 +1,18 @@
+[
+    {
+        "theatreName": "Inox",
+        "theatreImage": "/images/Theatres/inox.jpg"
+    },
+    {
+        "theatreName": "PVR",
+        "theatreImage": "/images/Theatres/PVR cinemas.jpg"
+    },
+    {
+        "theatreName": "Cinepolis",
+        "theatreImage": "/images/Theatres/cinepolis.jpg"
+    },
+    {
+        "theatreName": "City Pride",
+        "theatreImage": "/images/Theatres/city pride.jpg"
+    }
+]

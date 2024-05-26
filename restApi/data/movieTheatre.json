@@ -1,0 +1,3962 @@
+[
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ab9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4aba"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abb"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abc"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abd"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abe"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abf"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac0"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac1"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac2"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac3"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac4"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac5"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac6"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac7"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac8"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4aca"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acb"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acc"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acd"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ace"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acf"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad0"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad1"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad2"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad3"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad4"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad5"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad6"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad7"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad8"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fd"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ab9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4aba"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abb"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abc"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abd"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abe"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abf"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac0"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac1"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac2"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac3"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac4"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac5"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac6"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac7"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac8"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4aca"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acb"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acc"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acd"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ace"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acf"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad0"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad1"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad2"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad3"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad4"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad5"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad6"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad7"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad8"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0fe"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ab9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4aba"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abb"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abc"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abd"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abe"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abf"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac0"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac1"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac2"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac3"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac4"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac5"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac6"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac7"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac8"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4aca"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acb"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acc"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acd"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ace"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acf"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad0"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad1"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad2"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad3"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad4"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad5"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad6"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad7"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad8"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c0ff"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ab9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4aba"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abb"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abc"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abd"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abe"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4abf"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac0"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac1"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac2"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac3"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac4"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac5"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac6"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac7"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac8"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ac9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4aca"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acb"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "08:30",
+                "seats": []
+            },
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acc"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acd"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ace"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4acf"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad0"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            },
+            {
+                "time": "00:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad1"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad2"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad3"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad4"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad5"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad6"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "11:00",
+                "seats": []
+            },
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad7"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "12:30",
+                "seats": []
+            },
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad8"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "14:30",
+                "seats": []
+            },
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            }
+        ]
+    },
+    {
+        "movieId": {
+            "$oid": "65d616d959a5ffbd171e4ad9"
+        },
+        "theatreId": {
+            "$oid": "65d888e3167e49631866c100"
+        },
+        "showtime": [
+            {
+                "time": "16:00",
+                "seats": []
+            },
+            {
+                "time": "18:00",
+                "seats": []
+            },
+            {
+                "time": "19:30",
+                "seats": []
+            },
+            {
+                "time": "20:30",
+                "seats": []
+            },
+            {
+                "time": "22:00",
+                "seats": []
+            }
+        ]
+    }
+]
